@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8bf776cc593a7940b09b818469275b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullMelon: {fileID: 6331752937886366184, guid: 459081fee8d502549a5aecfd81a206c8, type: 3}
+  - halfMelon: {fileID: 1477212085004275909, guid: 675cfbf261446e34ba60ba2f2d2fae68, type: 3}
+  - sliceParticles: {fileID: 6135448792477809365, guid: 8d5f99ef61fee8c4c8c908ea81bd6ba9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
